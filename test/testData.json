@@ -1,0 +1,42 @@
+{
+  "brand-1": {
+    "address": "0xcdd294a3d7a8ac4f7b5fa811b2428f0fe484fd5d",
+    "PK": "0xc522461a18abcb6b66ef8bcdb8b10913aab169bdc3eca4bf592e82666f41822b"
+  },
+  "brand-2": {
+    "address": "0x2edb6e465cacd426278ee6fb3e7074f1a48c3f3b",
+    "PK": "0x08517484d9190697a30fb303be00660d63462f3f5337952233ced3708b5adf55"
+  },
+  "brand-3": {
+    "address": "0x39fc5cae00a805b56ce0b6c7e4956357fb9f0ff4",
+    "PK": "0x13c071d8be2ec91dac4648dbe922f9ad6cdf3906f458d7224bbde93065e5cc9b"
+  },
+  "brand-4": {
+    "address": "0xa76a210a999378c62339dbb1e6826f90ec5fb911",
+    "PK": "0x7374f391873939c1d959b459c97bb313f566c26bc45223f803b19dbdae4f4903"
+  },
+  "brand-5": {
+    "address": "0x7a150b13a27495898a8ba409dae590a0dbc27970",
+    "PK": "0x6b511bd5a2e8362df24b4ed7e945ba607347ff502eecd47679dfdfc5319c4c7f"
+  },
+  "brand-6": {
+    "address": "0xe3d8d6d4ed3f639cae8bc232ec51130dbea344f2",
+    "PK": "0x183d2bf7d89cc819ea8d36578877b6ac05c5c60c984e5405b7391d7a640e9176"
+  },
+  "brand-7": {
+    "address": "0x1dd4dca7e1ad837463df09aee50b69b7b6530545",
+    "PK": "0xdccb9114a7886bc24b1eafb6ebc34ef304abebf9d188a427186130f7656f172c"
+  },
+  "brand-8": {
+    "address": "0x805b30b7efbfe78de9d2178f50a2c6c882f352b6",
+    "PK": "0xa09c28c34783ed49896f3102ea72ddc48f1266f989acaf5c2f408acf40d613aa"
+  },
+  "brand-9": {
+    "address": "0x799e74dddfd7886e3054494db40413b26753a062",
+    "PK": "0x7f85cc7a83281a21ae2a52012854fcadbb577f714e8e46dfde983358d42d7978"
+  },
+  "brand-10": {
+    "address": "0x0ee4dd95cea8f38bdf0e46033616915420bd1852",
+    "PK": "0xa46c2833ea19b3df36a604cf9240ce7493d6775aa48470a8ca1228f912557833"
+  }
+}

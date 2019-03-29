@@ -1,0 +1,22 @@
+{
+  "brand": {
+    "address": "0xcdd294a3d7a8ac4f7b5fa811b2428f0fe484fd5d",
+    "PK": "0xc522461a18abcb6b66ef8bcdb8b10913aab169bdc3eca4bf592e82666f41822b"
+  },
+  "distributor-1": {
+    "address": "0xa054fb92b2aa41dab47abdb1b449f3c553df5858",
+    "PK": "0x3e5ee2b71a1c1346ac1f89ef892aa78862910047f18e4856bfabf3041166ac40"
+  },
+  "distributor-2": {
+    "address": "0xdd313d6d4d80aeee75cf13c1db8a70fb5b56eece",
+    "PK": "0x2786fadeddbaa35c6dda1e6c4e3202d09bbda77482ba7fe049f383005c0c32ff"
+  },
+  "smb": {
+    "address": "0x5e5e62c2f218b358c4adb009b17fe32dc2a91578",
+    "PK": "0x3cfff9fde0930b781ea451d3c8ae6feaea629be972860ef8abb6603012133e0f"
+  },
+  "dropchain": {
+    "address": "0x1c81806d1de5ff66a818da4b55f83dd1277c93f3",
+    "PK": "0xfc133c4e1a341ce884df3a8b075b03c4897d1d671103989952993aa607615822"
+  }
+}
